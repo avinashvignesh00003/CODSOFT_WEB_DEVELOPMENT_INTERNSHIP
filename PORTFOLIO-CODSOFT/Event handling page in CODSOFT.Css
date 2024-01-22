@@ -1,0 +1,89 @@
+body {
+    background-image:url("white\ mm.jpg");
+    font-size: large;
+    font-family: Arial, sans-serif;
+    background-color:gold;
+    margin: 0;
+    padding: 0;
+}
+.header {
+    color: rgb(151, 198, 22);
+    background-color: rgb(43, 43, 53);
+    padding: 10px;
+    text-align: center;
+}
+.event-info {
+    color:rgb(22, 9, 9);
+    font-size: 24px;
+    margin-bottom: 10px;
+    background-color: rgb(16, 12, 46);
+    padding: 20px;
+    text-align: center;
+}
+.event-info h2 {
+    color:rgb(17, 8, 8);
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.event-info p {
+   color: green;
+    padding: 20px;
+    text-align: center;
+    color:grey;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.event-date {
+    color: rgb(28, 164, 87);
+       color:rgb(47, 30, 30);
+    padding: 20px;
+    text-align: center;
+}
+.event-date h2 {
+   color:rgb(45, 9, 9);
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.event-date p {
+    color: green;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.event-image {
+    padding: 20px;
+    text-align: center;
+}
+
+.event-image img {
+    max-width: 100%;
+    height: auto;
+}
+
+.footer {
+    background-color: #003366;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+li::marker{
+    content: "✅";
+}
+form :hover{
+    color:aliceblue;
+    background-color: rgb(62, 225, 21);
+    color:grey;
+    font-size: 24px;
+}
+li{
+    font-family: Arial, sans-serif;
+    color:rgb(13, 6, 6);
+    padding: 20px;
+    text-align: center;
+}  
+#south{
+     background-color:rgb(142, 35, 35);
+}
+.event-information{
+    color: rgb(18, 173, 72);
+}
